@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0M9B4|A0A0P0M9B4_9BURK -          alligned-transporter -              2e-09   34.2  20.3   1.1e-08   31.8  20.3   2.1   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmmTransporter.fasta
+# Target file:     proteomes/Limnohabitans.fasta
+# Option settings: /afs/nd.edu/user30/aquattro/local/bin/hmmsearch --tblout proteomes/Limnohabitans.fasta.hits hmmTransporter.fasta proteomes/Limnohabitans.fasta 
+# Current dir:     /afs/nd.edu/user30/aquattro/local/Biocomp-Fall2018-181116-Exercise11
+# Date:            Wed Nov 28 17:17:05 2018
+# [ok]

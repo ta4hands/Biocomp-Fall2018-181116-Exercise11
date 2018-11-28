@@ -1,0 +1,96 @@
+proteomes/Arthrobacter.fasta.hits
+number of hits
+0
+proteomes/Bacillus.fasta.hits
+number of hits
+1
+proteomes/Clostridium.fasta.hits
+number of hits
+0
+proteomes/Flavobacterium.fasta.hits
+number of hits
+1
+proteomes/Limnohabitans.fasta.hits
+number of hits
+1
+proteomes/Rhizobium.fasta.hits
+number of hits
+0
+proteomes/Roseobacter.fasta.hits
+number of hits
+1
+proteomes/Verrucomicrobia.fasta.hits
+number of hits
+0
+proteomes/Arthrobacter.fasta.hits /proteomes\///g
+number of hits
+0
+proteomes/Bacillus.fasta.hits /proteomes\///g
+number of hits
+1
+proteomes/Clostridium.fasta.hits /proteomes\///g
+number of hits
+0
+proteomes/Flavobacterium.fasta.hits /proteomes\///g
+number of hits
+1
+proteomes/Limnohabitans.fasta.hits /proteomes\///g
+number of hits
+1
+proteomes/Rhizobium.fasta.hits /proteomes\///g
+number of hits
+0
+proteomes/Roseobacter.fasta.hits /proteomes\///g
+number of hits
+1
+proteomes/Verrucomicrobia.fasta.hits /proteomes\///g
+number of hits
+0
+proteomes/Arthrobacter.fasta.hits s/proteomes/ /g
+number of hits
+0
+proteomes/Bacillus.fasta.hits s/proteomes/ /g
+number of hits
+1
+proteomes/Clostridium.fasta.hits s/proteomes/ /g
+number of hits
+0
+proteomes/Flavobacterium.fasta.hits s/proteomes/ /g
+number of hits
+1
+proteomes/Limnohabitans.fasta.hits s/proteomes/ /g
+number of hits
+1
+proteomes/Rhizobium.fasta.hits s/proteomes/ /g
+number of hits
+0
+proteomes/Roseobacter.fasta.hits s/proteomes/ /g
+number of hits
+1
+proteomes/Verrucomicrobia.fasta.hits s/proteomes/ /g
+number of hits
+0
+proteomes/Arthrobacter.fasta.hits -d / -f 2
+number of hits
+0
+proteomes/Bacillus.fasta.hits -d / -f 2
+number of hits
+1
+proteomes/Clostridium.fasta.hits -d / -f 2
+number of hits
+0
+proteomes/Flavobacterium.fasta.hits -d / -f 2
+number of hits
+1
+proteomes/Limnohabitans.fasta.hits -d / -f 2
+number of hits
+1
+proteomes/Rhizobium.fasta.hits -d / -f 2
+number of hits
+0
+proteomes/Roseobacter.fasta.hits -d / -f 2
+number of hits
+1
+proteomes/Verrucomicrobia.fasta.hits -d / -f 2
+number of hits
+0
